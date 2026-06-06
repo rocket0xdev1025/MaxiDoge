@@ -56107,24 +56107,24 @@ var XP = (() => {
           {
             img: "assets/images/svg-icons/social-icons/telegram-black.svg",
             alt: "Telegram",
-            link: "https://t.me/MaxiDoge_pump",
+            link: "https://t.me/maxidogeeth_portal",
           },
           {
             img: "assets/images/svg-icons/social-icons/twitter-black.svg",
             alt: "Twitter",
-            link: "https://x.com/MaxiDoge_pump",
+            link: "https://x.com/maxidogeeth_x",
           },
         ]),
         (this.socialMobile = [
           {
             img: "assets/images/svg-icons/social-icons/telegram.svg",
             alt: "Telegram",
-            link: "https://t.me/MaxiDoge_pump",
+            link: "https://t.me/maxidogeeth_portal",
           },
           {
             img: "assets/images/svg-icons/social-icons/twitter.svg",
             alt: "Twitter",
-            link: "https://x.com/MaxiDoge_pump",
+            link: "https://x.com/maxidogeeth_x",
           },
         ]),
         this.subscriptions.push(
@@ -56614,7 +56614,7 @@ var QP = (() => {
             "mb-4",
             "gap-3",
           ],
-          ["href", "https://t.me/MaxiDoge_pump", "target", "_blank"],
+          ["href", "https://t.me/maxidogeeth_portal", "target", "_blank"],
           [
             "src",
             "/assets/images/svg-icons/social-icons/telegram.svg",
@@ -56625,7 +56625,7 @@ var QP = (() => {
             1,
             "icon",
           ],
-          ["href", "https://x.com/MaxiDoge_pump", "target", "_blank"],
+          ["href", "https://x.com/maxidogeeth_x", "target", "_blank"],
           [
             "src",
             "/assets/images/svg-icons/social-icons/twitter.svg",
